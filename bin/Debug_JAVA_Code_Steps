@@ -1,0 +1,65 @@
+WHAT IS DEBUGGING?
+
+* Debugging is one of the broadest topics in Software Engineering. 
+
+* It is a process to find subtle and remove bugs, and errors, and to understand the flow of the code as well. 
+
+* It is a must-have skill for all Java developers because debugging can help in locating the bugs which are not visible during code reviews.
+ 
+* Let’s discuss the steps to debug the code in eclipse.
+
+--------------------------------------------Step by Step Implementation-------------------------------------
+
+-->Step 1: Start with setting Breakpoints = we need to set breakpoints in the code to stop the execution at your desired location.
+ 
+                                            While running the program in debug mode it will temporarily stop execution at a particular point in the code.
+                                          
+                                            So, there are some ways to set breakpoints in code. 
+                                         
+               1) Put the cursor on a line in code which you want to set as a breakpoint then press Control + Shift + B.
+
+               2) Double-click on the left margin or right-click in the editor and select “Toggle Breakpoint“.
+
+               3) You will see a blue dot will appear next to that line.
+
+-->Step 2: Activate Debug Mode = Now to debug the project have different ways in Eclipse.
+
+                              FIRST WAY:
+                              
+                              1) Right-click on the project which you want to debug and select “Debug As” then “Java Application”.
+                                                        
+                              2) Eclipse asks you want to switch to the Debug Perspective once the compiler reached the first breakpoint.
+                              
+                              3) Once you click on Switch, you will see Debug Mode in eclipse.
+                              
+                              
+                              SECOND WAY:
+                              
+                              On the right corner of the eclipse editor have an Icon debug double Click on it. You will observe that debug mode is activated. 
+                              
+                              
+-->Step 3: In the toolbar of Eclipse editor appears several buttons for controlling the flow of execution of the program.
+
+                Resume	        F8        	Execution of the program until the next breakpoint is reached.
+                
+                Terminate 	 Control + F2	    To stop the execution of code.
+                
+                Step Into	    F5	        Executes the current line of code and goes to the next line of code. 
+                 
+                Step Over	    F6	        Executes the current line of code and goes back to the previous line. 
+                
+                
+--> Conclusion
+
+* For every Java Developer having good debugging skills is necessary.
+
+* Tt can be got by practice there are not any particular techniques to learn and get the debugging skills for that you need to spend more time and
+
+* learn the different views of debugging this article is for beginners who are just starting their journey as Java developers.
+
+
+
+
+
+
+                                                                               

@@ -1,0 +1,67 @@
+1.	 Control + o	for quick outline going quickly to a method.
+
+2.	Alt + Shift + W	to show a class in the package explorer.
+
+3.	Alt + right and Alt + left	for going back and forth while editing.
+
+4.	Control + k or Control + Shift +K 	for finding the next/previous.
+
+5.	Go to a type declaration: F3	to see function definitions very quickly.
+
+6.	 Control + Shift + Up and down	for navigating from member to member (variables and methods)
+
+-----------------------------------Eclipse Shortcuts for Writing and Editing Code--------------------------------
+
+1.	Control + /  for commenting, uncommenting lines, and blocks.
+
+2.	Control + Shift + / 	for commenting, uncommenting lines with block comments.
+
+3.	Control + l	go to the line.
+
+4.	Control + F4 or Control + w	for closing the current file.
+
+5.	Control+Shirt+W	for closing all files.
+
+6.	Control + F	for find/replace.
+
+7.	 Select text and press Control + Shift + F	for formatting
+
+8.	Control + D	to delete a line.
+
+9.	Control + Q	for going to the last edited place.
+
+10.	Selecting class and pressing F4	to see its Type hierarchy.
+
+----------------------------------------------------Miscellaneous Eclipse Shortcuts--------------------------------------------
+
+1.	Control + Shift + T 	for finding classes even from the jar files.
+
+2.	 Control + 1	for a quick fix.
+
+3.	Control + Shift + R	 for finding any resource (file) including config XML files.
+
+4.	Control + Shift + o	for organizing imports.
+
+5.	Control + Shift+G	which searches the workspace for references to the selected method or variable.
+
+6.	Control + Shift+L	to view the listing for all Eclipse keyboard shortcuts.
+
+7.	Control + Shift+P	to find a closing brace. Place the cursor at the opening brace and use this.
+
+8.	Control + Shift +F	for Autoformatting.
+
+9.	Alt + Shift + j	to add Javadoc at any place in the Java source file.
+
+10.	Alt+Shift+X, Q	to run the Ant build file using keyboard shortcuts in Eclipse.
+
+11.	Alt + ← and Alt + →	Hop back and forth respectively through the files you have visited.
+
+12.	Control + E	Go to other open editors.
+
+13.	Control + T	for toggling between supertype and subtype.
+
+14.	Move one problem (i.e.: error, warning) to the next (or previous) in a file:-
+
+Control +. For next.
+
+Control +, for the previous problem.
